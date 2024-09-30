@@ -1,0 +1,11 @@
+.seleccionado{
+  background-color:rgb(6, 105, 105);
+  color:white;
+  border: solid 1px black;
+  border-radius: 5px 0;
+  padding: 10px;
+  text-decoration: none;
+}
+nav a{
+  text-decoration: none;
+}
